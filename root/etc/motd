@@ -1,0 +1,7 @@
+This is an fxos 15.5 System.
+To upgrade your system call:
+
+        apt update
+        apt upgrade
+
+Have a lot of fun...

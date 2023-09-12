@@ -1,0 +1,2 @@
+[ INFO    ]: 14:00:22 | Loading XML description
+[ ERROR   ]: 14:00:22 | KiwiConfigFileNotFound: no XML description found in kiwi-debian-bookworm

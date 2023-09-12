@@ -1,0 +1,37 @@
+---
+componentName:   FXOS
+welcomeStyleCalamares: true
+welcomeExpandingLogo: true
+windowExpanding: normal
+windowSize: 800px,520px
+windowPlacement: center
+
+strings:
+    productName:         FXOS
+    shortProductName:    FXOS
+    version:             15.5
+    shortVersion:        15.5
+    versionedName:       FXOS 15.5
+    shortVersionedName:  FXOS 15.5
+    bootloaderEntryName: FXOS
+    productUrl:          https://fxos.com/
+    supportUrl:          https://fxos.com/
+    knownIssuesUrl:      https://fxos.com/
+    releaseNotesUrl:     https://fxos.com/
+    donateUrl:           https://fxos.com/
+
+images:
+    productLogo:         "logo.png"
+    productIcon:         "logo.png"
+    productWelcome:      "languages.png"
+    # productWallpaper:  "wallpaper.png"
+
+slideshow:               "show.qml"
+
+style:
+   sidebarBackground:    "#2c3133"
+   sidebarText:          "#FFFFFF"
+   sidebarTextSelect:    "#4d7079"
+   sidebarTextSelect:    "#292F34"
+
+slideshowAPI: 2
